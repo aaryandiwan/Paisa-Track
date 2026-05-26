@@ -9,8 +9,7 @@
 > An interactive dashboard for analyzing UPI (Unified Payments Interface) transactions in India — built with React, Vite, and Recharts.
 
 ## 🌐 Live Demo
-
-upi-dashboard-three.vercel.app
+[upi-dashboard-three.vercel.app](https://upi-dashboard-three.vercel.app/)
 
 ---
 
