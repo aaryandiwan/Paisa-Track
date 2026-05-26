@@ -10,7 +10,7 @@
 
 ## 🌐 Live Demo
 
-👉 **[View Dashboard](https://upi-dashboard.vercel.app)**
+upi-dashboard-three.vercel.app
 
 ---
 
